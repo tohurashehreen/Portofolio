@@ -32,7 +32,7 @@ StudyHive is a collaborative learning platform where students can share notes, v
 **Description:**  
 This project focuses on correcting biases in citizen-collected bird observation data using advanced machine learning models. It aims to improve data quality for ecological research.  
 
-## 🧩 My Contributions
+**My Contributions:** 
 - **Sole developer and researcher** for the entire project  
 - Preprocessed and cleaned large-scale eBird datasets (~100k+ entries) for model training  
 - Designed and implemented **Graph Neural Network** and **XGBooster** models for bias correction  
