@@ -40,7 +40,7 @@ This project focuses on correcting biases in citizen-collected bird observation 
 - Documented the full workflow for reproducibility and future research use  
 - Managed version control and maintained clean, organized codebase on GitHub
 
-**GitHub:** [eBird GNN Project](https://github.com/sara-hossain/ebird-gnn-transformer)  
+**GitHub:** [eBird GNN Project](https://github.com/tohurashehreen/ebird-bias-correction-using-gnn-and-xgbooster)  
 **Paper (in preparation):** *“Correcting Bias in Citizen-Collected Bird Observation Using GNNs and XGBooster”*
 
 ---
